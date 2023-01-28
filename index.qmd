@@ -1,0 +1,53 @@
+---
+title: "ESM 254: Quantitative Fisheries Science Edition"
+subtitle: "Abriged Syllabus"
+---
+
+# Disclaimer
+The details outlined below are subject to revision and refinement as the instructor continues to develop the course for Spring 2023.
+
+# Course Description
+Fisheries science and the quantitative methods developed for producing scientific advice for management are excellent case studies for students seeking to work at the forefront of solving critical environmental problems. My intent for this course is to demonstrate that quantitative marine ecology can transcend traditional and siloed academic exercises to be used to serve the communities that rely on living marine resources.
+
+# Course Learning Goals
+Throughout this course, students will
+
+- [Knowledge] Describe how settler-colonialism and white supremacy shape who gets to participate in fisheries and marine conservation through assigned course readings and in-class discussions
+- [Comprehension] Summarize key  ecological concepts that drive marine population dynamics and influence the implementation of quantitative methods
+- [Comprehension] Compare and contrast the quantitative methods used for developing scientific advice
+- [Application] Implement a subset of quantitative methods for producing scientific advice
+- [Synthesis] Design a list of key questions to ask when evaluating scientific advice
+- [Evaluation] Interpret key outputs presented as scientific advice
+
+# Example Course Topics
+Many of these topics will span multiple lectures.
+
+- Introduction to Quantitative Marine Ecology & Fisheries Science
+- Overview of Knowledge Systems and Western Science
+- Marine Ecology and Population Dynamics
+- Introduction to Modeling
+- The 5 Steps of Fisheries Management (A simplified framework)
+    - Step 1. Data Collection 
+    - Step 2. Assessing Stock Status
+    - Step 3. Setting Catch Limits
+    - Step 4. Making regulations
+    - Step 5. Research and Data Needs
+- Overview of Management Strategy Evaluation
+
+# Example Assignments
+## Weekly 
+- Multiple choice lecture quizzes (Formative; on Canvas)
+- Short writing assignment (Formative)
+- Hands-on in-class programming exercises (Formative; Excel or R)
+
+## ~ Every 3 weeks
+- Short Answer Exam (Summative)
+
+## Quarter Long
+- Project and Presentation (Summative)
+
+# Teaching Jargon
+- The words in [brackets] in the Course Goals section are from [Bloom's Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), a hierarchical modeling framework for designing learning objectives.
+- Formative assessments/assignments: help students learn and practice the course content and are low-stakes (i.e., have low weights in your grading scheme)
+- Summative assessments/assignments: help me assess how students are performing on the learning objectives for each unit and are typically higher-stakes (i.e., higher weighting in the gradebook)
+
