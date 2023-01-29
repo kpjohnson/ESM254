@@ -8,11 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
-    theme: lux
+    theme: sandstone
     css: styles.css
     toc: true
 

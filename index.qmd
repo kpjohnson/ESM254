@@ -1,6 +1,6 @@
 ---
 title: "ESM 254: Quantitative Fisheries Science Edition"
-subtitle: "Abriged Syllabus"
+subtitle: "Draft Syllabus"
 ---
 
 # Disclaimer
@@ -12,12 +12,14 @@ Fisheries science and the quantitative methods developed for producing scientifi
 # Course Learning Goals
 Throughout this course, students will
 
-- [Knowledge] Describe how settler-colonialism and white supremacy shape who gets to participate in fisheries and marine conservation through assigned course readings and in-class discussions
-- [Comprehension] Summarize key  ecological concepts that drive marine population dynamics and influence the implementation of quantitative methods
-- [Comprehension] Compare and contrast the quantitative methods used for developing scientific advice
-- [Application] Implement a subset of quantitative methods for producing scientific advice
-- [Synthesis] Design a list of key questions to ask when evaluating scientific advice
-- [Evaluation] Interpret key outputs presented as scientific advice
+- Describe how settler-colonialism and white supremacy shape who gets to participate in fisheries and marine conservation through assigned course readings and in-class discussions [Knowledge]* 
+- Summarize key  ecological concepts that drive marine population dynamics and influence the implementation of quantitative methods [Comprehension]*
+- Compare and contrast the quantitative methods used for developing scientific advice [Comprehension]*
+- Implement a subset of quantitative methods for producing scientific advice [Application]*
+- Design a list of key questions to ask when evaluating scientific advice [Synthesis]*
+- Interpret key outputs presented as scientific advice [Synthesis]*
+
+*Check out the [Teaching Jargon](#teaching-jargon) section for more information.
 
 # Example Course Topics
 Many of these topics will span multiple lectures.
@@ -34,17 +36,29 @@ Many of these topics will span multiple lectures.
     - Step 5. Research and Data Needs
 - Overview of Management Strategy Evaluation
 
-# Example Assignments
-## Weekly 
-- Multiple choice lecture quizzes (Formative; on Canvas)
-- Short writing assignment (Formative)
-- Hands-on in-class programming exercises (Formative; Excel or R)
+# Course Structure
+The course structure is subject to adjustment before the first meeting of Spring Quarter.
 
-## ~ Every 3 weeks
-- Short Answer Exam (Summative)
+## Lectures & in-class exercises
+There are two 1 hour and 15-minute class meetings per week. Lectures are pre-recorded and made available on the course website before class. Students are expected to watch the lectures before class to prepare for the hands-on in-class discussions and exercises.
 
-## Quarter Long
-- Project and Presentation (Summative)
+## Assignments
+There are five graded assignment types:
+
+- ~20 Lecture Quizzes (Online, Formative)
+- ~20 Entry slips/Exit slips (In-person, Formative)
+- ~10 Weekly short-form writing reflection assignments (Online, Formative)
+- ~2 Take home exams (Online, Summative)
+- Final project written report and presentation (Online and In-person, Summative)
+
+## Grading
+| Assignment Type | Weight |
+| --------------- | ------ |
+| Quizzes         | 20%    |
+| Entry / exit slips | 5%  |
+| Weekly written reflections | 10% |
+| Take home exams | 30% |
+| Final project | 35% |
 
 # Teaching Jargon
 - The words in [brackets] in the Course Goals section are from [Bloom's Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), a hierarchical modeling framework for designing learning objectives.

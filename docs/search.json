@@ -11,21 +11,21 @@
     "href": "index.html#weekly",
     "title": "ESM 254: Quantitative Fisheries Science Edition",
     "section": "Weekly",
-    "text": "Weekly\n\nMultiple choice lecture quizzes (Formative; on Canvas)\nShort writing assignment (Formative)\nHands-on in-class programming exercises (Formative; Excel or R)"
+    "text": "Weekly\n\nMultiple choice lecture quizzes (Formative*; on Canvas)\nShort writing assignment (Formative*)\nHands-on in-class programming exercises (Formative*; Excel or R)"
   },
   {
     "objectID": "index.html#every-3-weeks",
     "href": "index.html#every-3-weeks",
     "title": "ESM 254: Quantitative Fisheries Science Edition",
     "section": "~ Every 3 weeks",
-    "text": "~ Every 3 weeks\n\nShort Answer Exam (Summative)"
+    "text": "~ Every 3 weeks\n\nShort Answer Exam (Summative*)"
   },
   {
     "objectID": "index.html#quarter-long",
     "href": "index.html#quarter-long",
     "title": "ESM 254: Quantitative Fisheries Science Edition",
     "section": "Quarter Long",
-    "text": "Quarter Long\n\nProject and Presentation (Summative)"
+    "text": "Quarter Long\n\nProject and Presentation (Summative*)"
   },
   {
     "objectID": "about.html",
@@ -33,5 +33,26 @@
     "title": "About",
     "section": "",
     "text": "This will be updated later."
+  },
+  {
+    "objectID": "index.html#lectures-in-class-exercises",
+    "href": "index.html#lectures-in-class-exercises",
+    "title": "ESM 254: Quantitative Fisheries Science Edition",
+    "section": "Lectures & in-class exercises",
+    "text": "Lectures & in-class exercises\nThere are two 1 hour and 15-minute class meetings per week. Lectures are pre-recorded and made available on the course website before class. Students are expected to watch the lectures before class to prepare for the hands-on in-class discussions and exercises."
+  },
+  {
+    "objectID": "index.html#assignments",
+    "href": "index.html#assignments",
+    "title": "ESM 254: Quantitative Fisheries Science Edition",
+    "section": "Assignments",
+    "text": "Assignments\nThere are five graded assignment types:\n\n~20 Lecture Quizzes (Online, Formative)\n~20 Entry slips/Exit slips (In-person, Formative)\n~10 Weekly short-form writing reflection assignments (Online, Formative)\n~2 Take home exams (Online, Summative)\nFinal project written report and presentation (Online and In-person, Summative)"
+  },
+  {
+    "objectID": "index.html#grading",
+    "href": "index.html#grading",
+    "title": "ESM 254: Quantitative Fisheries Science Edition",
+    "section": "Grading",
+    "text": "Grading\n\n\n\nAssignment Type\nWeight\n\n\n\n\nQuizzes\n20%\n\n\nEntry / exit slips\n5%\n\n\nWeekly written reflections\n10%\n\n\nTake home exams\n30%\n\n\nFinal project\n35%"
   }
 ]
