@@ -7,7 +7,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: ESM 254 Home
+      - href: https://kpjohnson.github.io
+        text: About Instructor
+      - href: faq.qmd
+        text: Enrollment FAQ
 
 format:
   html:
