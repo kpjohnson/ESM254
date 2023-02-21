@@ -1,38 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ESM 254: Quantitative Fisheries Science Edition",
-    "section": "",
-    "text": "The details outlined below are subject to revision and refinement as the instructor continues to develop the course for Spring 2023."
-  },
-  {
-    "objectID": "index.html#weekly",
-    "href": "index.html#weekly",
-    "title": "ESM 254: Quantitative Fisheries Science Edition",
-    "section": "Weekly",
-    "text": "Weekly\n\nMultiple choice lecture quizzes (Formative*; on Canvas)\nShort writing assignment (Formative*)\nHands-on in-class programming exercises (Formative*; Excel or R)"
-  },
-  {
-    "objectID": "index.html#every-3-weeks",
-    "href": "index.html#every-3-weeks",
-    "title": "ESM 254: Quantitative Fisheries Science Edition",
-    "section": "~ Every 3 weeks",
-    "text": "~ Every 3 weeks\n\nShort Answer Exam (Summative*)"
-  },
-  {
-    "objectID": "index.html#quarter-long",
-    "href": "index.html#quarter-long",
-    "title": "ESM 254: Quantitative Fisheries Science Edition",
-    "section": "Quarter Long",
-    "text": "Quarter Long\n\nProject and Presentation (Summative*)"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "This will be updated later."
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Enrollment FAQ",
+    "section": "",
+    "text": "If you have a question not featured here, please send me an email at kpjohns @ uw.edu.\n\nThree questions with the same answer\n\nHow do I join the waitlist for ESM 254?\nHow do I receive an add code for ESM 254?\nWill enrollment increase for this course?\n\nPlease contact academics @ bren.ucsb.edu, let them know your situation, and they will provide you with the most up-to-date information.\n\n\nCan I audit this class?\nHere are a few things I consider when answering this question:\n\nIf there are enough physical open seats in the classroom, then yes. I aim to keep the room at a comfortable and safe capacity.\nDoes a reduced accountability structure match your learning style?\n\nThe format of the course will be a flipped classroom lecture with hands-on active learning assignments during our face-to-face class time. Students who audited with me in this course format have shared that the change in accountability for them makes the in-class discussion and activities challenging. However, everyone learns in different ways, so I cannot make this particular decision for you. I will answer any follow up questions, though!\n\n\nCan I attend this class remotely?\nTLDR; Probably not?\nAt this time (15 February 2023), I am not familiar with the AV equipment available in my assigned classroom for ESM 254. Even if the classroom is equipped with Zoom friendly tech, the format of the in-person components of this course were not designed for a synchronous hybrid modality (See Part 2 of the answer to question above). It has been my experience that students who join via Zoom have a minimal (to none) interactive environment when I try to run a hybrid model at this scale."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ESM 254: Quantitative Fisheries Science Edition",
+    "section": "",
+    "text": "The details outlined below are subject to revision and refinement as the instructor continues to develop the course for Spring 2023."
   },
   {
     "objectID": "index.html#lectures-in-class-exercises",
@@ -54,12 +40,5 @@
     "title": "ESM 254: Quantitative Fisheries Science Edition",
     "section": "Grading",
     "text": "Grading\n\n\n\nAssignment Type\nWeight\n\n\n\n\nQuizzes\n20%\n\n\nEntry / exit slips\n5%\n\n\nWeekly written reflections\n10%\n\n\nTake home exams\n30%\n\n\nFinal project\n35%"
-  },
-  {
-    "objectID": "faq.html",
-    "href": "faq.html",
-    "title": "Enrollment FAQ",
-    "section": "",
-    "text": "If you have a question not featured here, please send me an email at kpjohns @ uw.edu.\n\nThree questions with the same answer\n\nHow do I join the waitlist for ESM 254?\nHow do I receive an add code for ESM 254?\nWill enrollment increase for this course?\n\nPlease contact academics @ bren.ucsb.edu, let them know your situation, and they will provide you with the most up-to-date information.\n\n\nCan I audit this class?\nHere are a few things I consider when answering this question:\n\nIf there are enough physical open seats in the classroom, then yes. I aim to keep the room at a comfortable and safe capacity.\nDoes a reduced accountability structure match your learning style?\n\nThe format of the course will be a flipped classroom lecture with hands-on active learning assignments during our face-to-face class time. Students who audited with me in this course format have shared that the change in accountability for them makes the in-class discussion and activities challenging. However, everyone learns in different ways, so I cannot make this particular decision for you. I will answer any follow up questions, though!\n\n\nCan I attend this class remotely?\nTLDR; Probably not?\nAt this time (15 February 2023), I am not familiar with the AV equipment available in my assigned classroom for ESM 254. Even if the classroom is equipped with Zoom friendly tech, the format of the in-person components of this course were not designed for a synchronous hybrid modality (See Part 2 of the answer to question above). It has been my experience that students who join via Zoom have a minimal (to none) interactive environment when I try to run a hybrid model at this scale."
   }
 ]

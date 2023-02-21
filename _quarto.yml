@@ -12,6 +12,9 @@ website:
         text: About Instructor
       - href: faq.qmd
         text: Enrollment FAQ
+  google-analytics:
+    tracking-id: "G-1S0WLJGSQ5"
+    anonymize-ip: true
 
 format:
   html:
