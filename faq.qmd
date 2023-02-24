@@ -5,7 +5,7 @@ format: html
 
 If you have a question not featured here, please send me an email at kpjohns @ uw.edu.
 
-# Three questions with the same answer
+# Q: Three questions with the same answer
 
 - How do I join the waitlist for ESM 254? 
 - How do I receive an add code for ESM 254? 
@@ -13,7 +13,23 @@ If you have a question not featured here, please send me an email at kpjohns @ u
 
 Please contact academics @ bren.ucsb.edu, let them know your situation, and they will provide you with the most up-to-date information.
 
-# Can I audit this class?
+# Q: I do not meet the pre-requisites for ESM 254. Can I join the waitlist for ESM 254?
+
+Please email me at kpjohns @ uw.edu with answers to the following so I can better assess if the course I've designed helps you reach your academic goals:
+
+Briefly, what are your academic goals and how can a quantitative fisheries science course help you reach them? No essay required, brief bullet points are fine. Help me see the snapshot.
+
+## Pre-reqs and anticipated overlap with ESM 254 SPR 23:
+
+**ESM 201: Ecology of Managed Ecosystems**
+
+Please briefly describe any previous academic/hands-on experience with the concepts of reproduction, sources of (non-fishing) mortality, and growth of marine species (and biotic factors that affect these).
+
+**ESM 202: Environmental Biogeochemistry & ESM 203: Earth System Science**
+
+Similar to above, but this time, please briefly describe any previous academic/hands-on experience with the concepts of abiotic factors that affect reproduction, natural mortality, and growth?
+
+# Q: Can I audit this class?
 
 Here are a few things I consider when answering this question:
 
@@ -23,7 +39,7 @@ Here are a few things I consider when answering this question:
 
 The format of the course will be a flipped classroom lecture with hands-on active learning assignments during our face-to-face class time. Students who audited with me in this course format have shared that the change in accountability for them makes the in-class discussion and activities challenging. However, everyone learns in different ways, so I cannot make this particular decision for you. I will answer any follow up questions, though!
 
-# Can I attend this class remotely?
+# Q: Can I attend this class remotely?
 
 TLDR; Probably not?
 

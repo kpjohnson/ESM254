@@ -11,7 +11,7 @@
     "href": "faq.html",
     "title": "Enrollment FAQ",
     "section": "",
-    "text": "If you have a question not featured here, please send me an email at kpjohns @ uw.edu.\n\nThree questions with the same answer\n\nHow do I join the waitlist for ESM 254?\nHow do I receive an add code for ESM 254?\nWill enrollment increase for this course?\n\nPlease contact academics @ bren.ucsb.edu, let them know your situation, and they will provide you with the most up-to-date information.\n\n\nCan I audit this class?\nHere are a few things I consider when answering this question:\n\nIf there are enough physical open seats in the classroom, then yes. I aim to keep the room at a comfortable and safe capacity.\nDoes a reduced accountability structure match your learning style?\n\nThe format of the course will be a flipped classroom lecture with hands-on active learning assignments during our face-to-face class time. Students who audited with me in this course format have shared that the change in accountability for them makes the in-class discussion and activities challenging. However, everyone learns in different ways, so I cannot make this particular decision for you. I will answer any follow up questions, though!\n\n\nCan I attend this class remotely?\nTLDR; Probably not?\nAt this time (15 February 2023), I am not familiar with the AV equipment available in my assigned classroom for ESM 254. Even if the classroom is equipped with Zoom friendly tech, the format of the in-person components of this course were not designed for a synchronous hybrid modality (See Part 2 of the answer to question above). It has been my experience that students who join via Zoom have a minimal (to none) interactive environment when I try to run a hybrid model at this scale."
+    "text": "If you have a question not featured here, please send me an email at kpjohns @ uw.edu."
   },
   {
     "objectID": "index.html",
@@ -40,5 +40,12 @@
     "title": "ESM 254: Quantitative Fisheries Science Edition",
     "section": "Grading",
     "text": "Grading\n\n\n\nAssignment Type\nWeight\n\n\n\n\nQuizzes\n20%\n\n\nEntry / exit slips\n5%\n\n\nWeekly written reflections\n10%\n\n\nTake home exams\n30%\n\n\nFinal project\n35%"
+  },
+  {
+    "objectID": "faq.html#pre-reqs-and-anticipated-overlap-with-esm-254-spr-23",
+    "href": "faq.html#pre-reqs-and-anticipated-overlap-with-esm-254-spr-23",
+    "title": "Enrollment FAQ",
+    "section": "Pre-reqs and anticipated overlap with ESM 254 SPR 23:",
+    "text": "Pre-reqs and anticipated overlap with ESM 254 SPR 23:\nESM 201: Ecology of Managed Ecosystems\nPlease briefly describe any previous academic/hands-on experience with the concepts of reproduction, sources of (non-fishing) mortality, and growth of marine species (and biotic factors that affect these).\nESM 202: Environmental Biogeochemistry & ESM 203: Earth System Science\nSimilar to above, but this time, please briefly describe any previous academic/hands-on experience with the concepts of abiotic factors that affect reproduction, natural mortality, and growth?"
   }
 ]
